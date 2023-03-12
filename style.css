@@ -84,6 +84,7 @@ img {
 @media screen and (max-width: 768px) {
     .outer-div {
         width: 90%;
+        height: 100%;
         grid-template-columns: 1fr;
     }
 
